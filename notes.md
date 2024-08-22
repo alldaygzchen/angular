@@ -14,3 +14,5 @@
 - ng serve
 - main.ts use app.component.ts to replace index.html app-root tag
 - https://www.typescriptlang.org/docs/handbook/2/classes.html
+- ng g c user
+- 19
